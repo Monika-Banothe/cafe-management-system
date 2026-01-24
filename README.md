@@ -1,4 +1,4 @@
-# 🍽️ Resto World Cafe – Ordering System (Python)
+# 🍽️ Unique Cafe – Ordering System (Python)
 
 ## 📌 Project Description
 This is a simple Python console-based restaurant ordering system.  
