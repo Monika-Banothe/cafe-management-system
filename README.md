@@ -47,7 +47,7 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ```bash
 python cafe_management_system.py
-
+```
 ---
 
 ## 🧠 Program Logic
@@ -60,7 +60,7 @@ python cafe_management_system.py
 ---
 
 ## 🧪 Sample Output
-
+```
 Welcome to the Resto World Cafe
 Menu:
 Pizza: Rs240
@@ -78,7 +78,7 @@ Enter the item you want to order: Tea
 Tea added to your order.
 
 Total amount to pay: Rs280
-
+```
 ---
 
 ## 🎯 Learning Outcomes
