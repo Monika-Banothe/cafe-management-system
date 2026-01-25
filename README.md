@@ -47,3 +47,79 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ```bash
 python cafe_management_system.py
+
+🧠 Program Logic
+
+Menu items and prices are stored in a dictionary
+
+User selects an item from the menu
+
+If the item exists, its price is added to the total bill
+
+The program continues until the user chooses "No"
+
+Final bill amount is displayed
+
+🧪 Sample Output
+
+Welcome to the Unique Cafe
+Menu:
+Pizza: Rs240
+Pasta: Rs140
+Burger: Rs80
+Salad: Rs120
+Tea: Rs40
+Coffee: Rs60
+
+Enter the item you want to order: tea
+Tea added to your order.
+Do you want to order another item? (Yes/No): yes
+
+Enter the item you want to order: Burger
+Burger added to your order.
+Do you want to order another item? (Yes/No): yes
+
+Enter the item you want to order: tea
+Tea added to your order.
+Do you want to order another item? (Yes/No): yes
+
+Enter the item you want to order: Pasta
+Pasta added to your order.
+Do you want to order another item? (Yes/No): yes
+
+Enter the item you want to order: idli
+Idli is not available.
+Do you want to order another item? (Yes/No): no
+
+Total amount to pay: Rs300
+
+🎯 Learning Outcomes
+
+Understanding dictionaries in Python
+
+Using loops for repeated operations
+
+Handling user input
+
+Applying conditional logic
+
+Building real-world mini projects
+
+🔮 Future Improvements
+
+Quantity support
+
+Item-wise bill receipt
+
+OOP (class-based) implementation
+
+GUI or Web version
+
+👩‍💻 Author
+
+Monika Banothe
+
+⭐ Note
+
+This project is created for learning, practice, and interview preparation.
+
