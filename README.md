@@ -48,21 +48,20 @@ This project is designed to demonstrate basic Python programming concepts using 
 ```bash
 python cafe_management_system.py
 
-🧠 Program Logic
+---
 
-Menu items and prices are stored in a dictionary
+## 🧠 Program Logic
+- Menu items and prices are stored in a dictionary
+- User selects an item from the menu
+- If the item exists, its price is added to the total bill
+- The program continues until the user chooses "No"
+- Final bill amount is displayed
 
-User selects an item from the menu
+---
 
-If the item exists, its price is added to the total bill
+## 🧪 Sample Output
 
-The program continues until the user chooses "No"
-
-Final bill amount is displayed
-
-🧪 Sample Output
-
-Welcome to the Unique Cafe
+Welcome to the Resto World Cafe
 Menu:
 Pizza: Rs240
 Pasta: Rs140
@@ -71,55 +70,35 @@ Salad: Rs120
 Tea: Rs40
 Coffee: Rs60
 
-Enter the item you want to order: tea
+Enter the item you want to order: Pizza
+Pizza added to your order.
+
+Do you want to order another item? Yes
+Enter the item you want to order: Tea
 Tea added to your order.
-Do you want to order another item? (Yes/No): yes
 
-Enter the item you want to order: Burger
-Burger added to your order.
-Do you want to order another item? (Yes/No): yes
+Total amount to pay: Rs280
 
-Enter the item you want to order: tea
-Tea added to your order.
-Do you want to order another item? (Yes/No): yes
+---
 
-Enter the item you want to order: Pasta
-Pasta added to your order.
-Do you want to order another item? (Yes/No): yes
+## 🎯 Learning Outcomes
+- Understanding dictionaries in Python
+- Using loops for repeated operations
+- Handling user input
+- Applying conditional logic
+- Building real-world mini projects
 
-Enter the item you want to order: idli
-Idli is not available.
-Do you want to order another item? (Yes/No): no
+---
 
-Total amount to pay: Rs300
+## 🔮 Future Improvements
+- Quantity support
+- Item-wise bill receipt
+- OOP (class-based) implementation
+- GUI or Web version
 
-🎯 Learning Outcomes
-
-Understanding dictionaries in Python
-
-Using loops for repeated operations
-
-Handling user input
-
-Applying conditional logic
-
-Building real-world mini projects
-
-🔮 Future Improvements
-
-Quantity support
-
-Item-wise bill receipt
-
-OOP (class-based) implementation
-
-GUI or Web version
-
-👩‍💻 Author
-
+---
+## 👩‍💻 Author
 Monika Banothe
 
-⭐ Note
-
+## ⭐ Note
 This project is created for learning, practice, and interview preparation.
-
