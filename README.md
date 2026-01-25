@@ -61,7 +61,7 @@ python cafe_management_system.py
 
 ## 🧪 Sample Output
 ```
-Welcome to the Resto World Cafe
+Welcome to the Unique Cafe
 Menu:
 Pizza: Rs240
 Pasta: Rs140
