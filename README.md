@@ -1,6 +1,6 @@
-# 🍽️ Unique Cafe – Ordering System (Python)
+# Unique Cafe – Ordering System (Python)
 
-## 📌 Project Description
+## Project Description
 This is a simple Python console-based restaurant ordering system.  
 It allows users to select food items from a menu and calculates the total bill amount based on the selected items.
 
@@ -8,7 +8,7 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ---
 
-## 🚀 Features
+## Features
 - Display menu with prices
 - Order multiple items
 - Menu stored using dictionary
@@ -18,7 +18,7 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3
 - Dictionary
 - While loop
@@ -27,7 +27,7 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ---
 
-## 📋 Menu
+## Menu
 | Item   | Price (Rs) |
 |-------|------------|
 | Pizza | 240 |
@@ -39,7 +39,7 @@ This project is designed to demonstrate basic Python programming concepts using 
 
 ---
 
-## ▶️ How to Run the Project
+## How to Run the Project
 1. Make sure Python 3 is installed
 2. Download or clone this repository
 3. Open terminal / command prompt
@@ -50,7 +50,7 @@ python cafe_management_system.py
 ```
 ---
 
-## 🧠 Program Logic
+## Program Logic
 - Menu items and prices are stored in a dictionary
 - User selects an item from the menu
 - If the item exists, its price is added to the total bill
@@ -59,7 +59,7 @@ python cafe_management_system.py
 
 ---
 
-## 🧪 Sample Output
+## Sample Output
 ```
 Welcome to the Unique Cafe
 Menu:
@@ -81,7 +81,7 @@ Total amount to pay: Rs280
 ```
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 - Understanding dictionaries in Python
 - Using loops for repeated operations
 - Handling user input
@@ -90,15 +90,15 @@ Total amount to pay: Rs280
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 - Quantity support
 - Item-wise bill receipt
 - OOP (class-based) implementation
 - GUI or Web version
 
 ---
-## 👩‍💻 Author
+## Author
 Monika Banothe
 
-## ⭐ Note
+## Note
 This project is created for learning, practice, and interview preparation.
